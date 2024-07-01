@@ -2,16 +2,7 @@
 #### Robotics Engineer | Researcher | Open Source Enthusiast
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />](https://python.org)
-[<img align="left" alt="ROS" width="60px" src="https://fkromer.github.io/awesome-ros2/ros_logo.svg" />](https://www.ros.org/)
-[<img align="left" alt="Webots" width="26px" src="https://raw.githubusercontent.com/cyberbotics/webots/master/resources/icons/core/webots.png" />](https://cyberbotics.com/)
-[<img align="left" alt="MATLAB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />](https://www.mathworks.com/products/matlab.html)
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ubuntu/ubuntu.png" />](https://ubuntu.com/)
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />](https://docker.com)
-[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" />](https://tensorflow.org)
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" />](https://jupyter.org)
-<br />
-<br />
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=Ubuntu&color=353535) ![Bootstrap](https://img.shields.io/badge/-Gazebo-05122A?style=flat-square&logo=Gazebo&color=353535) ![Bootstrap](https://img.shields.io/badge/-Ros-05122A?style=flat-square&logo=Ros&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Webots-05122A?style=flat-square&logo=Webots&color=353535)
 
 ### GitHub Stats:
 
