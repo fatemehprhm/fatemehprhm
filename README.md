@@ -11,6 +11,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatemehprhm&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehprhm&theme=tokyonight&layout=compact)
-
-### GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=fatemehprhm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
